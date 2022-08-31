@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://media3.giphy.com/media/KGMzZvWa5su2O5LCVR/giphy.gif?cid=6c09b95235yhjzmw35ohn9jb4tlqcyr6hepj3qlrbnxhwt2o&rid=giphy.gif&ct=s">
 
 <!--
 **PhMorales/PhMorales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
