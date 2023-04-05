@@ -2,11 +2,11 @@
 
 ### **Sobre Mim**
 > 🏷️ Nome: _Pedro H. R. Morales_  
-> 🗓️ Idade: _16 anos_  
+> 🗓️ Idade: _17 anos_  
 > 👨‍💻 Curto programar em: _Python, HTML, CSS_  
-> 🕓 Já utilizei: _C# (Unity), C++ (Tinkercad), JavaScript, Markdown_  
-> 🎒 Cursos que fiz / estou fazendo: _Ctrl+Play, Microsoft Azure AI Fundamentals - AI-900_  
-> 🎮 Curto fazer: _Jogar, Montar cubo mágico (3x3, 4x4, Skewb), Ler_  
+> 🕓 Já utilizei: _C# (Unity), C++ (Tinkercad), JavaScript, Markdown, PHP (com SQL)_ 
+> 🎒 Cursos que fiz / estou fazendo: _Ctrl+Play, Microsoft Azure AI Fundamentals - AI-900, Google Cloud Computing_  
+> 🎮 Curto fazer: _Jogar, Montar cubo mágico (3x3, 4x4, Skewb, SQ1), Ler_  
 
 
 Roubei do sor mesmo, me julguem 👇
