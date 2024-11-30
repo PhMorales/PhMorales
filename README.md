@@ -5,7 +5,7 @@
 > 🗓️ Idade: _18 anos_  
 > 👨‍💻 Curto programar em: _Python, HTML, CSS_  
 > 🕓 Já utilizei: _JavaScript, PHP, Typescript_<br>
-> 🎒 Cursos que fiz / estou fazendo: _Ctrl+Play, _  
+> 🎒 Cursos que fiz / estou fazendo: _Ctrl+Play_  
 
 <div>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=PhMorales&show_icons=true&theme=omni"/>
