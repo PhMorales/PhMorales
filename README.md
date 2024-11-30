@@ -2,8 +2,7 @@
 
 ### **Sobre Mim**
 > 🏷️ Nome: _Pedro H. R. Morales_  
-> 🗓️ Idade: _18 anos_  
-> 👨‍💻 Curto programar em: _Python, HTML, CSS_  
+> 👨‍💻 Curto programar em: _HTML, CSS, JS, Typescript_  
 > 🕓 Já utilizei: _JavaScript, PHP, Typescript_<br>
 > 🎒 Cursos que fiz / estou fazendo: _Ctrl+Play_  
 
